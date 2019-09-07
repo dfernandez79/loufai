@@ -149,6 +149,10 @@ Based on the Box symbol, controls are flexible and can be composed or decomposed
 <img src="./images/mobile.png" alt="" width="376">
 </p>
 
+## Development
+
+This repository uses [Git LFS](https://git-lfs.github.com), without it Sketch will fail to open `Loufai.sketch`.
+
 ## License
 
 I wanted a permissive license (MIT), so you don't have to worry about it. However, I'm not a lawyer and I don't know how MIT matches with a Sketch Library. If you have concerns, let me know by creating an issue in this repository.
