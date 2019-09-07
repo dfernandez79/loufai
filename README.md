@@ -8,7 +8,7 @@ It's designed to be minimalist and to speed your workflow.
 
 Loufai requires [Apple's San Francisco font](https://developer.apple.com/fonts/).
 
-Once that you installed San Francisco, the preferred method add Loufai as a library is to use [**this Sketch Cloud link**](https://sketch.cloud/s/00QeV).
+Once that you installed San Francisco, the preferred install method is to use [**this Sketch Cloud link**](https://sketch.cloud/s/00QeV).
 
 <p align="center">
 <img src="./images/sketch-cloud.png" alt="Sketch Cloud Screenshot showing highlighting the 'Add Library to Sketch' button" width="464">
