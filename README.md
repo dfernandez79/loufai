@@ -14,7 +14,7 @@ Once that you installed San Francisco, the preferred install method is to use [*
 <img src="./images/sketch-cloud.png" alt="Sketch Cloud Screenshot showing highlighting the 'Add Library to Sketch' button" width="464">
 </p>
 
-If you prefer you can [**download**](https://github.com/dfernandez79/loufai/releases/download/v1.0.0/Loufai.sketch) and manually install the library.
+If you prefer you can [**download**](https://github.com/dfernandez79/loufai/releases/download/v1.0.1/Loufai.sketch) and manually install the library.
 
 ## Reference
 
